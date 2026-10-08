@@ -1,2 +1,2 @@
-# OCROV
-Software to extract data from video overlay
+# UMBELLULA
+Underwater Metadata Extractor Using Automated OCR
